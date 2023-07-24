@@ -17,3 +17,7 @@ Pandas
 Matplotlib
 
 Seaborn
+
+
+## Following are the snapshots of different charts generated in this EDA process :
+
