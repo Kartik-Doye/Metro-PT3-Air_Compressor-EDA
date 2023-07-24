@@ -21,3 +21,4 @@ Seaborn
 
 ## Following are the snapshots of different charts generated in this EDA process :
 
+![image](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/637d7036-25d0-4202-a7ae-7edf53b55308)
