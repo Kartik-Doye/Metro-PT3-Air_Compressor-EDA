@@ -22,6 +22,6 @@ Seaborn
 ## Following are the snapshots of different charts generated in this EDA process :
 
 
-Relationship between different variables of dataset
+## Relationship between different variables of dataset
 
 ![62e3f4bf-897b-4550-9da7-619a229dca54](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/2ed72269-11dd-4277-be5b-7d05ecb34042)
