@@ -21,6 +21,10 @@ Seaborn
 
 ## Following are the snapshots of different charts generated in this EDA process :
 
+### Visualization of the original Time Series
+
+![image](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/f9a0145e-7b6e-4dcf-a955-2ffd701dfddb)
+
 
 ### Relationship between different variables of dataset
 
