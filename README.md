@@ -26,10 +26,15 @@ Seaborn
 ![download](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/48354c1b-38fa-4786-a799-79e01e2b11cd)
 
 
-### Visualization of the original Time Series
+### Visualization of the original Time Series - 01
 
 ![image](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/f9a0145e-7b6e-4dcf-a955-2ffd701dfddb)
 
+
+### Visualization of the original Time Series - 02
+
+
+![download](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/192a6029-9e9b-4ba8-bb6e-eaaa100ae04f)
 
 ### Relationship between different variables of dataset
 
