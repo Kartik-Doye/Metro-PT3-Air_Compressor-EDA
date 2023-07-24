@@ -71,7 +71,7 @@ Seaborn
 ![download](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/dd7d037b-707c-44a5-a23a-cf16d4cbe483)
 
 
-### plt.title('Dist Plot: DV Pressure')
+### Dist Plot: DV Pressure
 
 
 ![download](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/7a7f8b6d-aae6-480b-982a-3cce76339dcf)
