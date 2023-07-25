@@ -100,7 +100,7 @@ Seaborn
 ## The dataset consists of 15169480 data points collected at 1Hz from February to August 2020 and is described by 15
 features from 7 analogue (1-7) and 8 digital (8-15) sensors:
 
-###TP2 (bar) – the measure of the pressure on the compressor.
+TP2 (bar) – the measure of the pressure on the compressor.
 
 TP3 (bar) – the measure of the pressure generated at the pneumatic panel.
 
