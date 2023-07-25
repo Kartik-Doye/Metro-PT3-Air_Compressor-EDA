@@ -100,11 +100,11 @@ Seaborn
 ## The dataset consists of 15169480 data points collected at 1Hz from February to August 2020 and is described by 15
 features from 7 analogue (1-7) and 8 digital (8-15) sensors:
 
-TP2 (bar) – the measure of the pressure on the compressor.
+- TP2 (bar) – the measure of the pressure on the compressor.
 
-TP3 (bar) – the measure of the pressure generated at the pneumatic panel.
+- TP3 (bar) – the measure of the pressure generated at the pneumatic panel.
 
-H1 (bar) – the measure of the pressure generated due to pressure drop when the discharge of the cyclonic
+- H1 (bar) – the measure of the pressure generated due to pressure drop when the discharge of the cyclonic
 separator filter occurs.
 
 DV pressure (bar) – the measure of the pressure drop generated when the towers discharge air dryers; a zero
