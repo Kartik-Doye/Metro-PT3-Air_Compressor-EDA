@@ -143,4 +143,33 @@ expected values.
 flowing from the APU to the reservoirs.
 
 
+
+# Observation 
+
+- Oil Level vs Oil Temperatur using Scatter PLot
+
+- Scatter PLot Analysis TP3 Vs H1
+
+- Visualization in form of Sine_Wave_Form
+
+- Visualization of the original Time Series using Sub_Plot
+
+- Visualization of the original Time Series Sub_plot
+
+- Histogram Plot: TP2
+
+- Pie Chart: COMP
+
+- Dist Plot: DV Pressure
+
+- Dist Plot: TP2
+
+- Count Plot: Pressure Switch
+
+- Count Plot: Oil_level
+
+-  Heatmap visualization of the correlation matrix
+
+-  Box Plot: TP2, TP3, H
+
   ![image](https://github.com/Kartik-Doye/Metro-PT3-Air_Compressor-EDA/assets/140334885/5b88e3b0-dffa-4d6f-9c2e-04ed15acfb25)
